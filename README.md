@@ -1,6 +1,6 @@
 # Michael Reda (Pipeline TD)
 
-## [Material Share ](https://drive.google.com/file/d/1ldYTkx4_BP41IsYya8j0VuOlAzIgAjyP/view?usp=sharing)
+## [Material Share ](https://drive.google.com/file/d/1MAoEhz6N_N6L0qsS63BmjDKhBrXtMzhY/view?usp=sharing)
 
 > Materials share is maya python tool to share materials across varies maya files.
 >
@@ -17,7 +17,7 @@
 
 
 
-## Maya To Clarisse
+## [Maya To Clarisse](https://drive.google.com/file/d/1SHqGOAWv6AZeXhMBXxVpRDPx0u5y-sdC/view?usp=sharing)
 
 > Maya to clarisse is maya python tool to make a bridge between maya and clarisse and transfer asset with its textures and equivalent materials  with one click.
 >
@@ -37,7 +37,7 @@
 >
 >   ​
 
-## Custom Playblast
+## [Custom Playblast](https://drive.google.com/file/d/15P2vhKDCwxGSP74Lu5M_uErKixBshokM/view?usp=sharing)
 
 > - Maya python tool to make a playblast movie with annotations text include the file path and camera informations and artist name, and the tool make overrides on the viewport setting.
 >
@@ -55,7 +55,7 @@
 >
 >   ​
 
-## Custom Deformation Constraint
+## [Custom Deformation Constraint](https://drive.google.com/file/d/15jkd35BFTUm1jHY9I3DRQX2eBkGcya5H/view?usp=sharing)
 
 > - Maya python tool to make a custom constraint on deformed objects that coming from caching and lost its transformations.
 >
@@ -68,7 +68,7 @@
 > - Using bake the animation to constrained objects.
 > - This tool rename all objects that have the same name.
 
-## Lookdev Tool
+## [Lookdev Tool](https://drive.google.com/file/d/15i2ASY2n_ybow_zUCFyCqUQulkOBJPho/view?usp=sharing)
 
 > - Maya python tool to quick make a 3 point light lookdev setup to asset with optimizing the light intensity with asset scale. 
 >
@@ -84,7 +84,7 @@
 >
 >   ​
 
-## Texture Organiser and Importer
+## [Texture Organiser and Importer](https://drive.google.com/file/d/1UYJxyqL4qt40tpdj0huPVUkPOKnIsMa_/view?usp=sharing)
 
 > - Windows tool and maya python tool to arrange and version the exported texture then import them and link all with their materials inside maya.
 >
@@ -102,7 +102,7 @@
 >
 >   ​
 
-## Namespace Tool
+## [Namespace Tool](https://drive.google.com/file/d/1jJ5yB8L8hP9e640m8okUq-J8eWZ25pEz/view?usp=sharing)
 
 > - Maya python tool to Mange all projects names or namespaces with aberration, double click to copy it.
 >
@@ -114,7 +114,7 @@
 >
 >   ​
 
-## Exposed Attributes
+## [Clarisse Exposed Attributes](https://drive.google.com/file/d/1gEjShcO5vQ7OiJTYM6ICNuJoOZVir9UI/view?usp=sharing)
 
 > - Clarisse python tool to mange all huge project item once.
 >
@@ -123,7 +123,7 @@
 > - Apply the changes on attributes with all children projectItems of all project.
 > - Filtering the projectItems with type and apply change on it.
 
-## Shading layer Material Extract Tool
+## [Shading layer Material Extract Tool](https://drive.google.com/file/d/1gEjShcO5vQ7OiJTYM6ICNuJoOZVir9UI/view?usp=sharing)
 
 > - Clarisse python tool to actual assign materials from shading layer roles on objects, to make the render a bit faster.
 >
@@ -133,7 +133,7 @@
 > - Handling all types of roles.
 > - Handling the hidden and children layers.
 
-## Alembic to USD Converter
+## [Alembic to USD Converter](https://drive.google.com/file/d/1gEjShcO5vQ7OiJTYM6ICNuJoOZVir9UI/view?usp=sharing)
 
 > - Clarisse python tool to change alembic reference nodes to usd reference nodes, and conserve all input/output dependences and attributes values.
 >
@@ -142,7 +142,7 @@
 > - Creates usd file from abc file and swap all them nodes.
 > - Keep all dependences of alembic to usd.
 
-## Clarisse Deadline Submitter
+## [Clarisse Deadline Submitter](https://drive.google.com/file/d/1UphIHCvg8thtlxx3QfqV2wWxE9EzVqL1/view?usp=sharing)
 
 > - Windows tool to submit clarisse render tasks into deadline.
 >
@@ -160,7 +160,7 @@
 >
 >   ​
 
-## Maya Batch Renderer
+## [Maya Batch Renderer](https://drive.google.com/file/d/1-T93TPjefN0mTZUy-Nrek7yu-hnSHxvg/view?usp=sharing)
 
 > - Windows tool to standalone patch render of maya file.
 >
@@ -172,21 +172,40 @@
 > - Preview the statues, progress, and more for each render task.
 > - Log and configuration files.
 
-## Dailies Tool
+## [Mixamo Auto Rigger](https://drive.google.com/file/d/1e-w6hagOrn6U6kYVX_jx3-6nehMKCkX8/view?usp=sharing)
+
+> - Maya python tool to auto rig the mixamo characters animation.
+>
+> ## Features:
+>
+> - Auto rig with few steps.
+> - Back animation of fk and ik setups.
+> - Creates animation and display layers to make the edits easier.
+
+## [Matrix Rig (WIP)](https://drive.google.com/file/d/16qb143iceuDCcmKsnN5iHaAQ0wPoyZs9/view?usp=sharing) 
+
+> - New technique for rigging with math and matrices.
+>
+> ## Features:
+>
+> - Fast in performance.
+>
+> - Simple setup and keep the outliner has the controllers and joints only.
+>
+>   ​
+
+## [Dailies Tool](https://drive.google.com/file/d/1NM3FaaxXNwtz98LFmaivpG7xax-i316A/view?usp=sharing)
 
 > - Windows tool to make a dailies for each artist by taking a screenshot from own work and save it in a pipeline folder
 
-## intersection Detection
+## [intersection Detection](https://drive.google.com/file/d/10hd-5Mrz-WuNLkAl2wbhLjWLxuaiEIM2/view?usp=sharing)
 
 > - Maya bifrost node to detect the intersection of animated object with the environment.
 
-## Asset Browser (WIP)
+## [Asset Browser (WIP)](https://drive.google.com/file/d/1F61VpH1-KQvjizr4lbHpWZzGnr_lhj2S/view?usp=sharing)
 
 > - Windows tool to mange the asset with all dependences.
 
-## Clarisse Objects Manger (WIP)
+## [Clarisse Objects Manger (WIP)](https://drive.google.com/file/d/1oVxJC-uNi7GR_WpPY9upjAxip3gP02c7/view?usp=sharing)
 
-> - Clarisse python tool to mange all sceneItems by view, edit, filter its attributes
-
-
-
+> - Clarisse python tool to mange all scene Items by view, edit, filter its attributes
